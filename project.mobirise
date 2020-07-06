@@ -52,7 +52,8 @@
     "sitemapSwitcherAuto": false,
     "siteUrl": false,
     "gdpr": false,
-    "cookiesAlert": false
+    "cookiesAlert": false,
+    "google-analytics": "<meta name = \"description\" content = \"C#, Csharp, Asp,net Programming, Programming, Developers, George, Ebisike, George Ebisike, Software Development, PHP, Coding, Freelance\" />"
   },
   "pages": {
     "index.html": {
